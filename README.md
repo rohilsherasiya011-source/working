@@ -353,7 +353,7 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{outline:3px solid r
           <li>Fast turnaround</li>
           <li>Clear pricing</li>
         </ul>
-        <p>WhatsApp: <a href="https://wa.me/447700900123" target="_blank" rel="noopener">+44 7700 900123</a></p>
+        <p>WhatsApp: <a href="https://wa.me/917984657804" target="_blank" rel="noopener">+91 7984657804</a></p>
       </aside>
     </div>
   </section>
@@ -364,7 +364,7 @@ a:focus,button:focus,input:focus,select:focus,textarea:focus{outline:3px solid r
 </div>
 
 <!-- WhatsApp sticky -->
-<a class="wa-sticky" href="https://wa.me/447700900123" target="_blank" rel="noopener">💬</a>
+<a class="wa-sticky" href="https://wa.me/917984657804" target="_blank" rel="noopener">💬</a>
 
 <script>
 /* GSAP scroll animations */
